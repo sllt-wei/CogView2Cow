@@ -53,4 +53,3 @@
 
 
 
-![二维码基础款](https://github.com/KimYx0207/RaiseCard/assets/130755848/2a182d2c-8a43-4267-9e54-337dff85c5eb)
